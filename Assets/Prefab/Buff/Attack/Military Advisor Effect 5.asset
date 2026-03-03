@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b4d013b94ee2948af4eb5e349b5b05, type: 3}
+  m_Name: Military Advisor Effect 5
+  m_EditorClassIdentifier: Assembly-CSharp::AttackBuffSO
+  displayName: "\u8ECD\u5E2B\u6548\u679C(5/6)"
+  depiction: "\u50B7\u5BB3+50%\n\u7576\u5C0D\u65B9\u4E5F\u6709\u8ECD\u5E2B\u6548\u679C\u6642\n\u6548\u679C\u4E92\u76F8\u62B5\u6D88"
+  image: {fileID: 21300000, guid: d8d1558a05461c84f87f9cca22eb201d, type: 3}
+  coverBuffs:
+  - {fileID: 11400000, guid: 4684e82b527112b43bc02a5d2ceb218e, type: 2}
+  - {fileID: 11400000, guid: bd5d9b0cc2ef9104386a8a3300ac34d5, type: 2}
+  - {fileID: 11400000, guid: 1b497ce675999c74d8aa03bbf74907ea, type: 2}
+  - {fileID: 11400000, guid: de2f80acc010cb44bb60b4af762ffc59, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: b2abcc98aa82aac4082f5bbd281e50ef, type: 2}
+  turn: 2
+  haveTurn: 1
+  canDelete: 1
+  allAttack: 50
+  physicalAttack: 0
+  magicAttack: 0

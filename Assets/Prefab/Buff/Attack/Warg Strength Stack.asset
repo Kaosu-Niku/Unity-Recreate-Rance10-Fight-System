@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b4d013b94ee2948af4eb5e349b5b05, type: 3}
+  m_Name: Warg Strength Stack
+  m_EditorClassIdentifier: Assembly-CSharp::AttackBuffSO
+  displayName: "\u84C4\u529B"
+  depiction: "\u7269\u7406\u589E\u50B7\u7387+100%"
+  image: {fileID: 21300000, guid: 2b908f5f20beff14fa10bdef4506d4d1, type: 3}
+  coverBuffs: []
+  canRepeat: 0
+  turn: 2
+  haveTurn: 1
+  canDelete: 1
+  allAttack: 0
+  physicalAttack: 100
+  magicAttack: 0
+  Accuracy: 0

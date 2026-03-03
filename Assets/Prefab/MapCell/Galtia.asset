@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67899c58411c09e4ebe72a5cece6f3ef, type: 3}
+  m_Name: Galtia
+  m_EditorClassIdentifier: Assembly-CSharp::MapCellFightSO
+  displayName: "\u6230\u9B25"
+  image: {fileID: 4849025025568708602, guid: 0ae4c97380bd4604ea7093ded39ba3ee, type: 3}
+  characterSO: {fileID: 11400000, guid: 27aeb8c3e51531c40be5d2e454dc1290, type: 2}
+  enemyActionSO: {fileID: 11400000, guid: d016f8503e9d5b549b64a507fd2cf291, type: 2}
+  enemyBuffSOs:
+  - {fileID: 11400000, guid: 2767a4563a979dd4899bfbaab6151120, type: 2}
+  enemyStateSOs: []
+  haveOver: 0
+  overTurn: 1
+  background: {fileID: 4800084480254059319, guid: 50c47ce849a3b0442ae91cea08782230, type: 3}
+  bgm: {fileID: 8300000, guid: 80c3b3261b29d144b94ded2912403cdd, type: 3}

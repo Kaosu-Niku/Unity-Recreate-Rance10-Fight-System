@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebf0d54e3bb51a941bfb24ccdee01d89, type: 3}
+  m_Name: Physical Defense 1+
+  m_EditorClassIdentifier: Assembly-CSharp::DefenseBuffSO
+  displayName: "\u7269\u7406\u9632\u79A61+"
+  depiction: "\u7269\u7406\u6297\u6027+20%"
+  image: {fileID: 21300000, guid: 52efe79e946c23f438fcb7efc8fe984a, type: 3}
+  coverBuffs: []
+  turn: 8
+  haveTurn: 1
+  canDelete: 1
+  allDefense: 0
+  physicalDefense: 20
+  magicDefense: 0

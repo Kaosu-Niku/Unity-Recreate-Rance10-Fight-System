@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Apostle Alcaria
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u4F7F\u5F92 \u963F\u723E\u5361\u8389\u4E9E"
+  image: {fileID: 7257087328199727601, guid: 9a0a6ce5b8d2ef0409d8acb65375e881, type: 3}
+  element: 5
+  camp: 9
+  level: 0
+  hp: 150
+  atk: 165
+  attack1: {fileID: 11400000, guid: ce7bd214c3c6ab647a4357465582fe4a, type: 2}
+  attack2: {fileID: 11400000, guid: 3dd344c610dc8ca47967cb26af5229f6, type: 2}

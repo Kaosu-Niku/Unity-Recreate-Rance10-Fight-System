@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Sanakia
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv22 \u85A9\u5A1C\u742A\u4E9E"
+  image: {fileID: 893991402495117242, guid: 1ab29f067fdf8cb47802d5497696cbe2, type: 3}
+  element: 4
+  camp: 6
+  level: 0
+  hp: 160
+  atk: 110
+  attack1: {fileID: 11400000, guid: 19e017ff78d058a459b8b5ad716c5a1b, type: 2}
+  attack2: {fileID: 11400000, guid: 0ece55efffd7ce341b79daecc6ffb5c1, type: 2}

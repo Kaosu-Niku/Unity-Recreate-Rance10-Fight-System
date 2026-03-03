@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Kimchi Hot Pot
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultAttackSO
+  displayName: "\u6CE1\u83DC\u706B\u934B"
+  depiction: "\u81EA\u52D5\u767C\u52D5<15%>\nHP\u4E2D\u56DE\u5FA9\n\u6D88\u96641\u7A2E\u7570\u5E38"
+  image: {fileID: -2082821264324835339, guid: ead475fe69869544da923041b617596b, type: 3}
+  source: {fileID: 0}
+  playTime: 0
+  attackMyself: 0
+  onceUse: 0
+  useAP: 0
+  stackAP: 0
+  recoverAP: 0
+  useAttack: 0
+  attackType: 3
+  damageType: 2
+  attackElement: 0
+  damageMultiplier: 1
+  attackCount: 1
+  autoAttack: 1
+  autoProbability: 15
+  attackerAddBuffs: []
+  attackerDeleteStates:
+  - attackState: {fileID: 0}
+    attackStateProbability: 100
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  healMultiplier: 1
+  healScale: 0
+  accuracy: 0
+  combo: 0
+  deleteEnemyActionProbability: 0
+  downCards: []
+  henshin: {fileID: 0}
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8483ff061e01b9944bf8df2667f170a3, type: 3}
+  m_Name: Kaybris Increase
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultEnemyActionSO
+  FixedActionList:
+  - turn: 10
+    action:
+    - {fileID: 11400000, guid: 26cf69877e0e3914bb3eb4d0cf4dba0a, type: 2}
+    - {fileID: 11400000, guid: 69a81e8f58e56a54180e2f0c7636d82c, type: 2}
+  - turn: 20
+    action:
+    - {fileID: 11400000, guid: 26cf69877e0e3914bb3eb4d0cf4dba0a, type: 2}
+    - {fileID: 11400000, guid: 354c839aa463e594eb8389981f1fbdea, type: 2}
+  - turn: 40
+    action:
+    - {fileID: 11400000, guid: 26cf69877e0e3914bb3eb4d0cf4dba0a, type: 2}
+    - {fileID: 11400000, guid: 354c839aa463e594eb8389981f1fbdea, type: 2}
+  RandomActionList:
+  - action:
+    - {fileID: 11400000, guid: 26cf69877e0e3914bb3eb4d0cf4dba0a, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 734209372b9811549b0bf221fec461d4, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 11b7fe03c3972ba4bba646845a5f907e, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 65cb189876096e4459024493576ed1ba, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 26cf69877e0e3914bb3eb4d0cf4dba0a, type: 2}
+    - {fileID: 11400000, guid: 69a81e8f58e56a54180e2f0c7636d82c, type: 2}
+  triggerAction:
+    action: []

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Kibako
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv45 \u7259\u5B50"
+  image: {fileID: 8557375241723365301, guid: fa3baa69e3bba1d4883588e2712ed031, type: 3}
+  element: 2
+  camp: 6
+  level: 0
+  hp: 150
+  atk: 225
+  attack1: {fileID: 11400000, guid: cd2b9fd7c242c15439e31421eee58499, type: 2}
+  attack2: {fileID: 11400000, guid: 8166839fdff20984c8cba0a601b73ac9, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeae1369c4d94f649ab7baad51f855a3, type: 3}
+  m_Name: Kaybris Onslaught
+  m_EditorClassIdentifier: Assembly-CSharp::KaybrisCharacterSO
+  id: 9
+  displayName: "\u9B54\u4EBA\u51F1\u5E03\u5229\u65AF (\u731B\u64CA)"
+  image: {fileID: -6902660686869040749, guid: 060e1b29f5a19bb4fb14853727ce502f, type: 3}
+  hp: 100000
+  atk: 2000
+  stateResistance: 25
+  evasion: 0
+  enemyAndAction:
+  - newEnemyCharacter: {fileID: 11400000, guid: 3193feceb50f68c44aca872eba96aab7, type: 2}
+    newEnemyAction: {fileID: 11400000, guid: 9bd5fdd21741f404b81bbc65ff32433f, type: 2}
+  - newEnemyCharacter: {fileID: 11400000, guid: 78bae68786b636f4182c3c0a24ac9b30, type: 2}
+    newEnemyAction: {fileID: 11400000, guid: 2d35415a9cde6b947ba13de3b60659ed, type: 2}
+  - newEnemyCharacter: {fileID: 11400000, guid: a72a2a69d5c18f34287e79e247b46dca, type: 2}
+    newEnemyAction: {fileID: 11400000, guid: c5e26965e04bf1543918781d3f1c6759, type: 2}
+  - newEnemyCharacter: {fileID: 11400000, guid: aeb3406e0e7d5be409ec225eda130ae8, type: 2}
+    newEnemyAction: {fileID: 11400000, guid: 2cffe919074e8144288f810d3af32363, type: 2}
+  addBuffs: []

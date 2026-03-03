@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Modern
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u82F1\u9748 \u6469\u767B"
+  image: {fileID: 6149597834836746714, guid: d624ee657ce486f478aff93b3af6c0d2, type: 3}
+  element: 1
+  camp: 7
+  level: 0
+  hp: 25
+  atk: 300
+  attack1: {fileID: 11400000, guid: 11901f3930b84904082127c1f88b2496, type: 2}
+  attack2: {fileID: 11400000, guid: eec51836ff4a64544aaf1d2d7491ab3a, type: 2}

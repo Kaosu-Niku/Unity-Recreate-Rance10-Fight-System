@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Bard
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv32 \u5DF4\u7279"
+  image: {fileID: -7137540106520885845, guid: 3c64a8b5c7d72cf4796cd5a3e4e31c64, type: 3}
+  element: 1
+  camp: 2
+  level: 0
+  hp: 250
+  atk: 160
+  attack1: {fileID: 11400000, guid: 21519e701cc7fde4385ee942aaad7031, type: 2}
+  attack2: {fileID: 11400000, guid: cecffea2f65debd489c6862f9468fec9, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998c1b0863b74b647b939a2037a9bae5, type: 3}
+  m_Name: Warg Incense 3
+  m_EditorClassIdentifier: Assembly-CSharp::AutoBuffSO
+  displayName: "\u74E6\u53E4\u7684\u9AD4\u9999(3/5)"
+  depiction: "\u7761\u772080%"
+  image: {fileID: 21300000, guid: d98b775a6f3c03e43ba95a50dd259d3f, type: 3}
+  coverBuffs:
+  - {fileID: 11400000, guid: 0961af3a29448f744a6cc02e6091cc45, type: 2}
+  - {fileID: 11400000, guid: 5cf70ce8fb0aa6941afbf51616b372dc, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 75e28d85e8bfd05448eefefa0d935f7c, type: 2}
+  - {fileID: 11400000, guid: 19db5e6dd0a3c2a439d4f0f84754b4ad, type: 2}
+  canRepeat: 0
+  turn: 1
+  haveTurn: 0
+  canDelete: 0
+  DamageFromCard: {fileID: 0}
+  DamageFromCharacter: {fileID: 11400000, guid: 961e9851e82d2064a8c3deb9d36dc085, type: 2}
+  attackFrom: {fileID: 11400000, guid: 68bf86d31720041499f95d4fbf455187, type: 2}
+  attackProbability: 100

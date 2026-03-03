@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a598256017915514d87a0d6c62bb4384, type: 3}
+  m_Name: NotHeal
+  m_EditorClassIdentifier: Assembly-CSharp::NotHealStateSO
+  displayName: "\u53CD\u518D\u751F"
+  depiction: "HP\u7121\u6CD5\u6062\u5FA9"
+  image: {fileID: 1414561094621347325, guid: e18325f69948d1844b55bc46a2d16b9f, type: 3}
+  trun: 3

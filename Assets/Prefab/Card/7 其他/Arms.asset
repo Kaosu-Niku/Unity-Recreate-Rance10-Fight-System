@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Arms
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv47 \u963F\u59C6\u7D72"
+  image: {fileID: -7309952929921994119, guid: a7686992f07e9b7438fc0fa6433563c7, type: 3}
+  element: 4
+  camp: 6
+  level: 0
+  hp: 200
+  atk: 235
+  attack1: {fileID: 11400000, guid: fc85d0ac08d9c8540b23845d429e867b, type: 2}
+  attack2: {fileID: 11400000, guid: 3c06c1129e317f24dac918ec9b7bb30b, type: 2}

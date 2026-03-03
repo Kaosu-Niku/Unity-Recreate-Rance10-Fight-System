@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Merim
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv30 \u6885\u8389\u59C6"
+  image: {fileID: -3766501221795386004, guid: 7cea8e84abaad614ca740f39f9553582, type: 3}
+  element: 4
+  camp: 2
+  level: 0
+  hp: 145
+  atk: 150
+  attack1: {fileID: 11400000, guid: ffcb6c9d4fbb0f446b43b0278f5f879f, type: 2}
+  attack2: {fileID: 11400000, guid: 066930cf6eb7bda46a1cb7cb7c185e18, type: 2}

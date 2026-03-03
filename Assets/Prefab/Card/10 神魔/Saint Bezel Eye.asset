@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Saint Bezel Eye
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u8056\u5973 \u8C9D\u6FA4\u611B"
+  image: {fileID: 8898348272672383061, guid: 16eaaae3fa4b82e4a96327365c6ef5ca, type: 3}
+  element: 5
+  camp: 9
+  level: 0
+  hp: 200
+  atk: 325
+  attack1: {fileID: 11400000, guid: 14024b37de9bd934788139ac88ab50b5, type: 2}
+  attack2: {fileID: 11400000, guid: 39d7c5acd9bce2747a9a968cf3f37609, type: 2}

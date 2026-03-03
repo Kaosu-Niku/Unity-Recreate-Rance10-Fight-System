@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998c1b0863b74b647b939a2037a9bae5, type: 3}
+  m_Name: Apostle Flame Scrivener
+  m_EditorClassIdentifier: Assembly-CSharp::AutoBuffSO
+  displayName: "\u4F7F\u5F92 \u706B\u7130\u53F8\u66F8\u4EBA"
+  depiction: "\u81EA\u52D5\u653B\u64CA(80%)\n\u9B54\u6CD5"
+  image: {fileID: 21300000, guid: 31817c29a30637d49964308afc66cfed, type: 3}
+  coverBuffs: []
+  canRepeat: 0
+  turn: 8
+  haveTurn: 1
+  canDelete: 1
+  DamageFromCard: {fileID: 11400000, guid: ef080684a905c7b46a33c384b84ecda8, type: 2}
+  DamageFromCharacter: {fileID: 0}
+  attackFrom: {fileID: 11400000, guid: dbe0b05746ae963409e31c3d465ece09, type: 2}
+  attackProbability: 80

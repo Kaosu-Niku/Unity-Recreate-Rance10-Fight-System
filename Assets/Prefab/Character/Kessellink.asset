@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac37418a78091b941ad28fcd5457eb0e, type: 3}
+  m_Name: Kessellink
+  m_EditorClassIdentifier: Assembly-CSharp::KessellinkCharacterSO
+  id: 7
+  displayName: "\u9B54\u4EBA\u51F1\u585E\u6797"
+  image: {fileID: 53298219865944960, guid: 9eb88537048757d4c8ef678ddf2ca056, type: 3}
+  hp: 50000
+  atk: 1000
+  stateResistance: 50
+  evasion: 0
+  checkBuff: {fileID: 11400000, guid: 58bb2bca2a8a5ab4abfa49e4fb6cb069, type: 2}
+  newEnemyCharacter: {fileID: 11400000, guid: 0048540fcfbd2534faf3eb16e069020a, type: 2}
+  newEnemyAction: {fileID: 11400000, guid: 7c65972898ae8fe42a3b6a5d4497b075, type: 2}
+  addBuffs:
+  - {fileID: 11400000, guid: 7820428473000214eb1bd9e7e4d8929f, type: 2}
+  - {fileID: 11400000, guid: 4684e82b527112b43bc02a5d2ceb218e, type: 2}
+  - {fileID: 11400000, guid: 4684e82b527112b43bc02a5d2ceb218e, type: 2}
+  - {fileID: 11400000, guid: 4684e82b527112b43bc02a5d2ceb218e, type: 2}
+  - {fileID: 11400000, guid: 4684e82b527112b43bc02a5d2ceb218e, type: 2}

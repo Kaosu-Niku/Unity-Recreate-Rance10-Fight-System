@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Demon Ferris
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u60E1\u9B54 \u83F2\u8389\u7D72"
+  image: {fileID: 4249944003504256106, guid: a92184f980e0d444d88d2ab9691640c5, type: 3}
+  element: 5
+  camp: 9
+  level: 0
+  hp: 375
+  atk: 275
+  attack1: {fileID: 11400000, guid: 15888ff160eb4c046ab0f957a16c689d, type: 2}
+  attack2: {fileID: 11400000, guid: 24f9a05b55e32df49b6e0fc5f35a9a9d, type: 2}

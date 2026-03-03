@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67899c58411c09e4ebe72a5cece6f3ef, type: 3}
+  m_Name: Mediusa
+  m_EditorClassIdentifier: Assembly-CSharp::MapCellFightSO
+  displayName: "\u6230\u9B25"
+  image: {fileID: 6352354730171800033, guid: c36027a8c7e02ea41bae201599a4e18a, type: 3}
+  characterSO: {fileID: 11400000, guid: aaf7e60646a722743b7ade7cffbce99a, type: 2}
+  enemyActionSO: {fileID: 11400000, guid: 482aa5120e8c35445b410bee6e583c04, type: 2}
+  enemyBuffSOs:
+  - {fileID: 11400000, guid: 0037b6ff83ca8c74ea027a03fbc6794b, type: 2}
+  - {fileID: 11400000, guid: 2767a4563a979dd4899bfbaab6151120, type: 2}
+  enemyStateSOs: []
+  haveOver: 0
+  overTurn: 1
+  background: {fileID: 3609717591480428416, guid: 190e3bb4b6ca98746b119d3646706e96, type: 3}
+  bgm: {fileID: 8300000, guid: 80c3b3261b29d144b94ded2912403cdd, type: 3}

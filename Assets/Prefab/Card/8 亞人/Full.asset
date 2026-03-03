@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Full
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u82F1\u9748 \u98A8\u9732"
+  image: {fileID: 4896241829819809222, guid: 605cf0334ef8f244da0e97cf552dd372, type: 3}
+  element: 2
+  camp: 7
+  level: 0
+  hp: 25
+  atk: 300
+  attack1: {fileID: 11400000, guid: 90e16fa1cb7e9f24bb9e3b00b65a13c0, type: 2}
+  attack2: {fileID: 11400000, guid: bb3c8d64444d17b4e8a8398733b5a810, type: 2}

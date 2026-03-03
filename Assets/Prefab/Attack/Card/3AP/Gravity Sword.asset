@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Gravity Sword
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultAttackSO
+  displayName: "\u91CD\u529B\u528D"
+  depiction: "\u653B\u64CA <75%>\n\u6575\u65B9HP\u6E1B\u534A\n\u689D\u4EF6 \u9664\u982D\u76EE\u4E4B\u5916"
+  image: {fileID: -1880760623046818715, guid: e91d9ecca764da046a62a2a352b3d255, type: 3}
+  source: {fileID: 8300000, guid: 5ea59c6b76ae0fa46b1dbbfa3252e947, type: 3}
+  playTime: 1.5
+  useAP: 3
+  stackAP: 0
+  useAttack: 1
+  attackType: 0
+  damageType: 0
+  attackElement: 0
+  damageMultiplier: 0
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs: []
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  accuracy: -25
+  combo: 0
+  deleteEnemyActionProbability: 0
+  downCards: []
+  henshin: {fileID: 0}
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

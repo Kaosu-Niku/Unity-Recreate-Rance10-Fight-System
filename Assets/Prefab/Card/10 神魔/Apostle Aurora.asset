@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Apostle Aurora
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u4F7F\u5F92 \u6B50\u7F85\u62C9"
+  image: {fileID: 8418505375671769877, guid: ccb00f73075ca8b4f8f4db8841f7ca40, type: 3}
+  element: 4
+  camp: 9
+  level: 0
+  hp: 200
+  atk: 195
+  attack1: {fileID: 11400000, guid: 6e0543e532df143418ee7fbc54ba4861, type: 2}
+  attack2: {fileID: 11400000, guid: 3dd344c610dc8ca47967cb26af5229f6, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58140995508e6c547b70b8d91fe66dc3, type: 3}
+  m_Name: Invincible Barrier
+  m_EditorClassIdentifier: Assembly-CSharp::InvalidBuffSO
+  displayName: "\u7121\u6575\u7D50\u754C"
+  depiction: "\u50B7\u5BB3\u5B8C\u5168\u9632\u79A6\n\u53EF\u4EE5\u7528\u5361\u5967\u65AF\u3001\u65E5\u5149\n\u89E3\u9664"
+  image: {fileID: 21300000, guid: 326f171a756b2dc4789432658fc986c9, type: 3}
+  coverBuffs: []
+  turn: 1
+  haveTurn: 0
+  canDelete: 0
+  allInvalid: 1
+  checkAttackType: 0
+  invalidAttackType: 0
+  checkDamageType: 0
+  invalidDamageType: 0
+  checkAttackElement: 0
+  invalidAttackElement: 0
+  checkDamage: 0
+  invalidDamage: 0

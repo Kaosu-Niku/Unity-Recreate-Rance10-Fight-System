@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67899c58411c09e4ebe72a5cece6f3ef, type: 3}
+  m_Name: Kaybris
+  m_EditorClassIdentifier: Assembly-CSharp::MapCellFightSO
+  displayName: "\u6230\u9B25"
+  image: {fileID: -6902660686869040749, guid: 060e1b29f5a19bb4fb14853727ce502f, type: 3}
+  characterSO: {fileID: 11400000, guid: 160b4f8ac85e9c849a7786e784e449aa, type: 2}
+  enemyActionSO: {fileID: 11400000, guid: 6dd823685f3cacb498f152452eaa332e, type: 2}
+  enemyBuffSOs:
+  - {fileID: 11400000, guid: 07203cc2471ac514cab3912529abf82b, type: 2}
+  - {fileID: 11400000, guid: 0037b6ff83ca8c74ea027a03fbc6794b, type: 2}
+  - {fileID: 11400000, guid: 2767a4563a979dd4899bfbaab6151120, type: 2}
+  enemyStateSOs: []
+  haveOver: 0
+  overTurn: 1
+  background: {fileID: 5707898321905888224, guid: eaac1248b26dcc8418fbe290b13276c7, type: 3}
+  bgm: {fileID: 8300000, guid: d5c62f23934dd0c418ef4c56dd0eee0f, type: 3}

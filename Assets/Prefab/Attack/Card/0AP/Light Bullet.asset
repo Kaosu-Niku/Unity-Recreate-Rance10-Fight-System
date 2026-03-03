@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Light Bullet
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultAttackSO
+  displayName: "\u5149\u4E4B\u5F37\u5F48"
+  depiction: "\u9B54\u6CD5(2.0\u500D)\n\u5C6C\u6027=\u5149\n\u9650\u52361\u56DE"
+  image: {fileID: 6150268098347028107, guid: 94e308049335da84584aa74a718758ca, type: 3}
+  source: {fileID: 8300000, guid: 8b505d43ed756dc48b3223ce1637a493, type: 3}
+  playTime: 1
+  onceUse: 1
+  useAP: 0
+  stackAP: 0
+  recoverAP: 0
+  useAttack: 1
+  attackType: 2
+  damageType: 1
+  attackElement: 4
+  damageMultiplier: 2
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs: []
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  accuracy: 0
+  combo: 0
+  deleteEnemyActionProbability: 0
+  downCards: []
+  henshin: {fileID: 0}
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

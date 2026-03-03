@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67899c58411c09e4ebe72a5cece6f3ef, type: 3}
+  m_Name: Lexington
+  m_EditorClassIdentifier: Assembly-CSharp::MapCellFightSO
+  displayName: "\u6230\u9B25"
+  image: {fileID: 6030556058242816259, guid: 98593dfa4ba252946abb526d8b11d471, type: 3}
+  characterSO: {fileID: 11400000, guid: 00a63794baf9d54498f144b243f7cf07, type: 2}
+  enemyActionSO: {fileID: 11400000, guid: 0a3451234f958ed42832903f3de95959, type: 2}
+  enemyBuffSOs:
+  - {fileID: 11400000, guid: 0037b6ff83ca8c74ea027a03fbc6794b, type: 2}
+  - {fileID: 11400000, guid: a0eff8286a5420c4f97a2a5985a77846, type: 2}
+  - {fileID: 11400000, guid: 95f6e0efc9f035644878db132e352936, type: 2}
+  - {fileID: 11400000, guid: 2767a4563a979dd4899bfbaab6151120, type: 2}
+  enemyStateSOs: []
+  haveOver: 0
+  overTurn: 1
+  background: {fileID: -2574377219264564494, guid: a126add75d6100147826f852e2eab1c3, type: 3}
+  bgm: {fileID: 8300000, guid: 80c3b3261b29d144b94ded2912403cdd, type: 3}

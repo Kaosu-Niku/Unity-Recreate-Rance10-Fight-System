@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Chinu Kobayakawa
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv37 \u5C0F\u65E9\u5DDD\u5343\u5974"
+  image: {fileID: 4956334799193708844, guid: e747daccd4cfa24438121b1a5de51533, type: 3}
+  element: 5
+  camp: 5
+  level: 0
+  hp: 250
+  atk: 185
+  attack1: {fileID: 11400000, guid: b4b30b932df4efd4aa755038c94ab8c8, type: 2}
+  attack2: {fileID: 0}

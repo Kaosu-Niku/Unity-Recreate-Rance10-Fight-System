@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57f386a02d5a0de4184767130a8c4140, type: 3}
+  m_Name: Curse
+  m_EditorClassIdentifier: Assembly-CSharp::CurseStateSO
+  displayName: "\u8A5B\u5492"
+  depiction: "\u6548\u679C\u7D50\u675F\u6642\u53D7\u5230\u50B7\u5BB3"
+  image: {fileID: -1197096410557042067, guid: 1713ef38deb46774aa1bffb81886630a, type: 3}
+  trun: 3

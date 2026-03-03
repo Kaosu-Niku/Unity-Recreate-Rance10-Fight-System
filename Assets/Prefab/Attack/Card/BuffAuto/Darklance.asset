@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Darklance
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultAttackSO
+  displayName: "\u6697\u862D\u65AF"
+  depiction: 
+  image: {fileID: 0}
+  source: {fileID: 8300000, guid: b94ded6f9305e4c44bd19e3ea5594b25, type: 3}
+  playTime: 1
+  useAP: 0
+  stackAP: 0
+  useAttack: 1
+  attackType: 0
+  damageType: 0
+  attackElement: 0
+  damageMultiplier: 1
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs: []
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

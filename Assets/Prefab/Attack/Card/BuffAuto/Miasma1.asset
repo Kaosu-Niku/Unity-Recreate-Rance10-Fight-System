@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Miasma1
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultAttackSO
+  displayName: "\u6050\u7634\u6C23"
+  depiction: 
+  image: {fileID: 0}
+  source: {fileID: 8300000, guid: b94ded6f9305e4c44bd19e3ea5594b25, type: 3}
+  playTime: 1
+  attackMyself: 0
+  onceUse: 0
+  useAP: 0
+  stackAP: 0
+  recoverAP: 0
+  useAttack: 1
+  attackType: 2
+  damageType: 1
+  attackElement: 0
+  damageMultiplier: 0.2
+  attackCount: 2
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs: []
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  healMultiplier: 0
+  healScale: 0
+  accuracy: 0
+  combo: 0
+  deleteEnemyActionProbability: 0
+  downCards: []
+  henshin: {fileID: 0}
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

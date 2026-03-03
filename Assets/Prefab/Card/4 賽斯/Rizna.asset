@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Rizna
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv25 \u9E97\u8332\u5A1C"
+  image: {fileID: -7475170519664398558, guid: 849e0220cf183764bb844a9b80264845, type: 3}
+  element: 5
+  camp: 3
+  level: 0
+  hp: 145
+  atk: 125
+  attack1: {fileID: 11400000, guid: b558bf20b594cc348ac89b000553ab56, type: 2}
+  attack2: {fileID: 11400000, guid: d8da4242a48e32b4b9d5af8d7c3ac162, type: 2}

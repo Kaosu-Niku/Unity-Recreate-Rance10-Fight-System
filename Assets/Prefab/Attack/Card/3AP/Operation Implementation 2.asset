@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Operation Implementation 2
+  m_EditorClassIdentifier: Assembly-CSharp::StateAttackSO
+  displayName: "\u4F5C\u6230\u5BE6\u65BD2"
+  depiction: "\u652F\u63F4\u914D\u7F6E\n[\u8ECD\u5E2B\u6548\u679C]++"
+  image: {fileID: -713429434745753553, guid: de8081530732a1642bf7c27fe49a0ce4, type: 3}
+  source: {fileID: 0}
+  playTime: 0
+  useAP: 3
+  stackAP: 0
+  useAttack: 0
+  attackType: 3
+  damageType: 2
+  attackElement: 0
+  damageMultiplier: 1
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs:
+  - attackBuff: {fileID: 11400000, guid: 4684e82b527112b43bc02a5d2ceb218e, type: 2}
+    attackBuffProbability: 100
+  - attackBuff: {fileID: 11400000, guid: 4684e82b527112b43bc02a5d2ceb218e, type: 2}
+    attackBuffProbability: 100
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  accuracy: 0
+  combo: 0
+  deleteEnemyActionProbability: 0
+  down: 0
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

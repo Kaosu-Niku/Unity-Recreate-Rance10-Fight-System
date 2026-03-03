@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Analyze
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultAttackSO
+  displayName: "\u89E3\u6790"
+  depiction: "\u986F\u793A\u5404\u7A2E\u4FE1\u606F"
+  image: {fileID: 5962392257235457838, guid: e6d1b6bfb5ea5454792d1e45b194b4ce, type: 3}
+  source: {fileID: 0}
+  playTime: 0
+  useAP: 0
+  stackAP: 0
+  useAttack: 0
+  attackType: 0
+  damageType: 0
+  attackElement: 0
+  damageMultiplier: 1
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs: []
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

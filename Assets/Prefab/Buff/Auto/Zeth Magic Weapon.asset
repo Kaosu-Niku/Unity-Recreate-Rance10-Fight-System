@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998c1b0863b74b647b939a2037a9bae5, type: 3}
+  m_Name: Zeth Magic Weapon
+  m_EditorClassIdentifier: Assembly-CSharp::AutoBuffSO
+  displayName: "\u8CFD\u65AF\u9B54\u6CD5\u5175\u5668"
+  depiction: "\u81EA\u52D5\u653B\u64CA(80%)\n\u9B54\u6CD5"
+  image: {fileID: 21300000, guid: 31817c29a30637d49964308afc66cfed, type: 3}
+  coverBuffs: []
+  canRepeat: 0
+  turn: 3
+  haveTurn: 1
+  canDelete: 1
+  DamageFromCard: {fileID: 0}
+  DamageFromCharacter: {fileID: 0}
+  attackFrom: {fileID: 11400000, guid: d971f8db287f91940b595edef1070374, type: 2}
+  attackProbability: 80

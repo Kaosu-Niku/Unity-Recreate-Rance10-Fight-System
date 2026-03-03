@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Chaka
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "LV39 \u8336\u9999"
+  image: {fileID: 2324243196126774329, guid: 78789080033e58e4faeb076f2e9a9419, type: 3}
+  element: 4
+  camp: 1
+  level: 0
+  hp: 50
+  atk: 195
+  attack1: {fileID: 11400000, guid: 055b880b19ab4bc46af4b4cca931645f, type: 2}
+  attack2: {fileID: 11400000, guid: ddde059da5954e44cad645aa2d728326, type: 2}

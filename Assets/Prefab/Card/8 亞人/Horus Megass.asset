@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Horus Megass
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u8377\u9B6F\u65AF \u8D85\u65AF"
+  image: {fileID: 5250032026591679209, guid: 101d20778a7a1634c89a90e78e940098, type: 3}
+  element: 2
+  camp: 7
+  level: 0
+  hp: 325
+  atk: 125
+  attack1: {fileID: 11400000, guid: 66ed63c4ec76caa48802d12561fc7e05, type: 2}
+  attack2: {fileID: 0}

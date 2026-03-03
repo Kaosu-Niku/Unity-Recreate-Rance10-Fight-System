@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Majin Warg
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u9B54\u4EBA \u74E6\u53E4"
+  image: {fileID: 5081093492798665057, guid: 781149ed59b727b4495cc890024ca8b4, type: 3}
+  element: 4
+  camp: 9
+  level: 0
+  hp: 500
+  atk: 375
+  attack1: {fileID: 11400000, guid: 07745da29011f74459b8a003a6aa7848, type: 2}
+  attack2: {fileID: 11400000, guid: 7a8fb80c6f0aaec42a9fd64eeac7b9c1, type: 2}

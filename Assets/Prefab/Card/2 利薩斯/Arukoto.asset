@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Arukoto
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "LV20 \u827E\u5BC7\u7279"
+  image: {fileID: 8857961256316394523, guid: d1eacd91600567a40bf257eb5e30dbaf, type: 3}
+  element: 2
+  camp: 1
+  level: 0
+  hp: 115
+  atk: 100
+  attack1: {fileID: 11400000, guid: ce7bd214c3c6ab647a4357465582fe4a, type: 2}
+  attack2: {fileID: 11400000, guid: 1e55d152a548536449fc8b6c402442d6, type: 2}

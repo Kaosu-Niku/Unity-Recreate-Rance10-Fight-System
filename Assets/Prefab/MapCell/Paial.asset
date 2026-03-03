@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67899c58411c09e4ebe72a5cece6f3ef, type: 3}
+  m_Name: Paial
+  m_EditorClassIdentifier: Assembly-CSharp::MapCellFightSO
+  displayName: "\u6230\u9B25"
+  image: {fileID: -334560451855851020, guid: 0e27c0f8dfb3962429759608a043a2d7, type: 3}
+  characterSO: {fileID: 11400000, guid: adf48bc4e488b6441934acef89b0f88d, type: 2}
+  enemyActionSO: {fileID: 11400000, guid: 153d7d7832fae3640851ad48be23a2ab, type: 2}
+  enemyBuffSOs:
+  - {fileID: 11400000, guid: 21d8afcb6a3d768418687fb3ee4d1e08, type: 2}
+  - {fileID: 11400000, guid: d325eb51fe0365549af205839bd4f7a6, type: 2}
+  - {fileID: 11400000, guid: d325eb51fe0365549af205839bd4f7a6, type: 2}
+  - {fileID: 11400000, guid: d325eb51fe0365549af205839bd4f7a6, type: 2}
+  - {fileID: 11400000, guid: 2767a4563a979dd4899bfbaab6151120, type: 2}
+  enemyStateSOs: []
+  haveOver: 0
+  overTurn: 1
+  background: {fileID: -1200358996102906118, guid: f17515c7b75b483468c009a33861a6d1, type: 3}
+  bgm: {fileID: 8300000, guid: 80c3b3261b29d144b94ded2912403cdd, type: 3}

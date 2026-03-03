@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Apostle Juno
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u4F7F\u5F92 \u6731\u8AFE"
+  image: {fileID: 3323389786587583158, guid: 65c35110d540abd469c93613a33c1133, type: 3}
+  element: 5
+  camp: 9
+  level: 0
+  hp: 250
+  atk: 365
+  attack1: {fileID: 11400000, guid: 1e74c72e4096a434c9de152c4e7eab4c, type: 2}
+  attack2: {fileID: 11400000, guid: e417be168a614fa498336c9e3d96d4d2, type: 2}

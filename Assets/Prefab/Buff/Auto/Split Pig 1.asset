@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998c1b0863b74b647b939a2037a9bae5, type: 3}
+  m_Name: Split Pig 1
+  m_EditorClassIdentifier: Assembly-CSharp::AutoBuffSO
+  displayName: "\u5206\u88C2\u76AE\u53E4(1/4)"
+  depiction: "\u81EA\u52D5\u653B\u64CA(80%)\n\u653B\u64CA"
+  image: {fileID: 21300000, guid: 31817c29a30637d49964308afc66cfed, type: 3}
+  coverBuffs:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: ce733395c5036894f981ce5d5c966109, type: 2}
+  - {fileID: 11400000, guid: 887d62b842bce0042b0f4ea2ab640c43, type: 2}
+  - {fileID: 11400000, guid: 65011b6672dc0494c97658f9aaa4794b, type: 2}
+  canRepeat: 0
+  turn: 1
+  haveTurn: 0
+  canDelete: 1
+  DamageFromCard: {fileID: 11400000, guid: 2160a565cd0bda84c909a9c6b87979be, type: 2}
+  DamageFromCharacter: {fileID: 0}
+  attackFrom: {fileID: 11400000, guid: f5fa23bfd2bb1ae449b5fe81e4fbb6c8, type: 2}
+  attackProbability: 80

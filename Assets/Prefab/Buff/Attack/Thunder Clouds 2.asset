@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b4d013b94ee2948af4eb5e349b5b05, type: 3}
+  m_Name: Thunder Clouds 2
+  m_EditorClassIdentifier: Assembly-CSharp::AttackBuffSO
+  displayName: "\u96F7\u96F2(2/4)"
+  depiction: "\u9B54\u6CD5\u589E\u50B7\u7387+50%"
+  image: {fileID: 21300000, guid: 5118444d912c03546879f54a5a7c34bd, type: 3}
+  coverBuffs:
+  - {fileID: 11400000, guid: 1f48c99fcb13efe409218be05f08cf44, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 090bc1a0aca26a14881001928403fd49, type: 2}
+  - {fileID: 11400000, guid: 316d50836a6168c4595426c190c1e5e1, type: 2}
+  turn: 9
+  haveTurn: 1
+  canDelete: 1
+  allAttack: 0
+  physicalAttack: 0
+  magicAttack: 50

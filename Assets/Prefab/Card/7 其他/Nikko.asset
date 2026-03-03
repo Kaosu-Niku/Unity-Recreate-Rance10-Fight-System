@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Nikko
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv53 \u65E5\u5149"
+  image: {fileID: 6307243085881654002, guid: 5a0a663d88f446b43b2dc553bdd213b8, type: 3}
+  element: 5
+  camp: 6
+  level: 0
+  hp: 100
+  atk: 265
+  attack1: {fileID: 11400000, guid: ef98bb61000273c4492ac06a7ff36c9a, type: 2}
+  attack2: {fileID: 11400000, guid: 6865a8d92b748354684c0160c5ceb76b, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Kenshin Uesugi
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv43 \u4E0A\u6749\u8B19\u4FE1"
+  image: {fileID: -2122731587975696436, guid: 30919b4aee8570744808c84e08614841, type: 3}
+  element: 2
+  camp: 5
+  level: 0
+  hp: 200
+  atk: 215
+  attack1: {fileID: 11400000, guid: 1d46358fbb200944a94de46e28004d8d, type: 2}
+  attack2: {fileID: 11400000, guid: d25d5908cddd48b4e91b10e93ba200a2, type: 2}

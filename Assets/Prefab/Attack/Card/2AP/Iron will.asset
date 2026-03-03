@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Iron will
+  m_EditorClassIdentifier: Assembly-CSharp::StateAttackSO
+  displayName: "\u92FC\u9435\u610F\u5FD7"
+  depiction: "\u652F\u63F4\u914D\u7F6E\n[\u92FC\u9435\u610F\u5FD7]\n\u9650\u52361\u6B21\n\u689D\u4EF6
+    \u53CB\u65B9HP30%\u4EE5\u4E0B"
+  image: {fileID: -713429434745753553, guid: de8081530732a1642bf7c27fe49a0ce4, type: 3}
+  source: {fileID: 0}
+  playTime: 0
+  attackMyself: 0
+  onceUse: 1
+  attackConditions:
+  - {fileID: 11400000, guid: a7b5a342d4cf8f247903c0f97a035bc8, type: 2}
+  useAP: 2
+  stackAP: 0
+  recoverAP: 0
+  useAttack: 0
+  attackType: 3
+  damageType: 2
+  attackElement: 0
+  damageMultiplier: 1
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs:
+  - attackBuff: {fileID: 11400000, guid: 0139287a3834fb443b546950f7e9edc4, type: 2}
+    attackBuffProbability: 100
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  healMultiplier: 0
+  healScale: 0
+  accuracy: 0
+  combo: 0
+  deleteEnemyActionProbability: 0
+  downCards: []
+  henshin: {fileID: 0}
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

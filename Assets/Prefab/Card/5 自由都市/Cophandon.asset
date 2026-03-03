@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Cophandon
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv27 \u79D1\u6F58\u51AC"
+  image: {fileID: 3651402077813908653, guid: e68989b4ccd9a9c479f5e9ba60fc127f, type: 3}
+  element: 5
+  camp: 4
+  level: 0
+  hp: 150
+  atk: 135
+  attack1: {fileID: 11400000, guid: f88f4bfab5b33084ea4129b95bbe3dde, type: 2}
+  attack2: {fileID: 11400000, guid: 21b5ef346a49d454f83a1544bc406e1b, type: 2}

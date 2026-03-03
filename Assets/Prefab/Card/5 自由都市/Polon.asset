@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Polon
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv50 \u9B44\u9F8D"
+  image: {fileID: -3618653510604966444, guid: a903a2e0b9ea2784b887e5e1144aedfe, type: 3}
+  element: 3
+  camp: 4
+  level: 0
+  hp: 150
+  atk: 250
+  attack1: {fileID: 11400000, guid: 8166839fdff20984c8cba0a601b73ac9, type: 2}
+  attack2: {fileID: 0}

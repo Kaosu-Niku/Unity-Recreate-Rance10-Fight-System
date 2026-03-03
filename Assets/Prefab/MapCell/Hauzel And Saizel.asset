@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67899c58411c09e4ebe72a5cece6f3ef, type: 3}
+  m_Name: Hauzel And Saizel
+  m_EditorClassIdentifier: Assembly-CSharp::MapCellFightSO
+  displayName: "\u6230\u9B25"
+  image: {fileID: -4075089741562825378, guid: 669d91a0aba3cf841ac6ad919b28bba1, type: 3}
+  characterSO: {fileID: 11400000, guid: 7316727c13d6cbf42b462509d5d11415, type: 2}
+  enemyActionSO: {fileID: 11400000, guid: 5032afd5d314cb04db4df1904ec7b9e4, type: 2}
+  enemyBuffSOs:
+  - {fileID: 11400000, guid: b5af60174fce7d74a8e14c617d42533b, type: 2}
+  - {fileID: 11400000, guid: 283fbbae73912054f8b9237ee22ad545, type: 2}
+  - {fileID: 11400000, guid: 2e6e9d7ff7dd58b4d90e6c9162e4edbd, type: 2}
+  - {fileID: 11400000, guid: 2767a4563a979dd4899bfbaab6151120, type: 2}
+  enemyStateSOs: []
+  haveOver: 0
+  overTurn: 1
+  background: {fileID: -2574377219264564494, guid: a126add75d6100147826f852e2eab1c3, type: 3}
+  bgm: {fileID: 8300000, guid: 80c3b3261b29d144b94ded2912403cdd, type: 3}

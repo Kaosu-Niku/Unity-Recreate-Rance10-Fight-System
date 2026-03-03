@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b4d013b94ee2948af4eb5e349b5b05, type: 3}
+  m_Name: Combat AI 3
+  m_EditorClassIdentifier: Assembly-CSharp::AttackBuffSO
+  displayName: "\u6230\u9B25AI(3/3)"
+  depiction: "\u7269\u7406\u589E\u50B7\u7387+80%"
+  image: {fileID: 21300000, guid: 2b908f5f20beff14fa10bdef4506d4d1, type: 3}
+  coverBuffs:
+  - {fileID: 11400000, guid: a6a2fdb4faffcb64294a08fbc6f763e4, type: 2}
+  - {fileID: 11400000, guid: 8a413706746b6d242b685b00e6ac83c1, type: 2}
+  - {fileID: 11400000}
+  canRepeat: 0
+  turn: 1
+  haveTurn: 0
+  canDelete: 1
+  allAttack: 0
+  physicalAttack: 80
+  magicAttack: 0
+  Accuracy: 0

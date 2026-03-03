@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba2ce4db15d3c95448e2e7f45bbc6da1, type: 3}
+  m_Name: Chaos
+  m_EditorClassIdentifier: Assembly-CSharp::ChaosStateSO
+  displayName: "\u6DF7\u4E82"
+  depiction: "\u5C07\u6703\u5C0E\u81F4\u884C\u52D5\u5931\u6557"
+  image: {fileID: -8531831637955104297, guid: 0a1d3ea11657cf04fa73c040a57ff56a, type: 3}
+  trun: 1

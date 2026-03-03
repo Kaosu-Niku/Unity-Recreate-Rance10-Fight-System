@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6593773f526b3134985c216065edb118, type: 3}
+  m_Name: Galtia
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCharacterSO
+  id: 5
+  displayName: "\u9B54\u4EBA\u52A0\u723E\u63D0\u4E9E"
+  image: {fileID: 4849025025568708602, guid: 0ae4c97380bd4604ea7093ded39ba3ee, type: 3}
+  hp: 40000
+  atk: 1000
+  stateResistance: 25
+  evasion: 0

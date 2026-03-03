@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Pig
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "Lv28 \u76AE\u53E4"
+  image: {fileID: -7145997824753648235, guid: b6bd34b3ac32bd446abf607fc8b878c8, type: 3}
+  element: 2
+  camp: 2
+  level: 0
+  hp: 110
+  atk: 140
+  attack1: {fileID: 11400000, guid: 6f9dcc9d4f55e6c4ab52d5bfb9f82a7c, type: 2}
+  attack2: {fileID: 11400000, guid: aa2103bf081952d41bce3762bd36cc3f, type: 2}

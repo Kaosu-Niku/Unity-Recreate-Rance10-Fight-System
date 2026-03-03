@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b4d013b94ee2948af4eb5e349b5b05, type: 3}
+  m_Name: Darkness of Amol
+  m_EditorClassIdentifier: Assembly-CSharp::AttackBuffSO
+  displayName: "\u57C3\u83AB\u4E4B\u6697"
+  depiction: "\u770B\u4E0D\u5230\u5404\u7A2E\u4FE1\u606F"
+  image: {fileID: 21300000, guid: c93168c1fa286dc429e17172d490261b, type: 3}
+  coverBuffs: []
+  canRepeat: 0
+  turn: 5
+  haveTurn: 1
+  canDelete: 1
+  allAttack: 0
+  physicalAttack: 0
+  magicAttack: 0
+  Accuracy: 0

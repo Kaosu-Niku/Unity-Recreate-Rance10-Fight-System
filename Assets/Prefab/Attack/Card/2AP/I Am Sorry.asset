@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: I Am Sorry
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultAttackSO
+  displayName: "\u591A\u6709\u5F97\u7F6A"
+  depiction: "\u653B\u64CA(1.0\u500D)\n\u6392\u9664\u6575\u65B9\u652F\u63F41\n\u53EF\u6392\u9664\u91CD\u88DD\u7532"
+  image: {fileID: -1880760623046818715, guid: e91d9ecca764da046a62a2a352b3d255, type: 3}
+  source: {fileID: 8300000, guid: b94ded6f9305e4c44bd19e3ea5594b25, type: 3}
+  playTime: 1
+  useAP: 2
+  stackAP: 0
+  useAttack: 1
+  attackType: 0
+  damageType: 0
+  attackElement: 0
+  damageMultiplier: 1
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs: []
+  attackerDeleteStates: []
+  defenserDeleteBuffs:
+  - attackBuff: {fileID: 0}
+    attackBuffProbability: 100
+  - attackBuff: {fileID: 11400000, guid: 21d8afcb6a3d768418687fb3ee4d1e08, type: 2}
+    attackBuffProbability: 100
+  - attackBuff: {fileID: 11400000, guid: 0037b6ff83ca8c74ea027a03fbc6794b, type: 2}
+    attackBuffProbability: 100
+  - attackBuff: {fileID: 11400000, guid: 271e913d0636cac4fa65b8127b2445b5, type: 2}
+    attackBuffProbability: 100
+  - attackBuff: {fileID: 11400000, guid: 853af34c2c203fd4d9f3ed28bcec03c5, type: 2}
+    attackBuffProbability: 100
+  defenserAddStates: []
+  accuracy: 0
+  combo: 0
+  deleteEnemyActionProbability: 0
+  downCards: []
+  henshin: {fileID: 0}
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd9646b2767ba544b13972a16bed909, type: 3}
+  m_Name: Mediusa
+  m_EditorClassIdentifier: Assembly-CSharp::MediusaEnemyActionSO
+  FixedActionList:
+  - turn: 3
+    action:
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 0ea9c73f83a3cb84c90178bb8b02e175, type: 2}
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+  - turn: 8
+    action:
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+  - turn: 15
+    action:
+    - {fileID: 11400000, guid: 6ddf129d1feb3334b8d031d985c3dcc5, type: 2}
+    - {fileID: 11400000, guid: 6ddf129d1feb3334b8d031d985c3dcc5, type: 2}
+    - {fileID: 11400000, guid: 0ea9c73f83a3cb84c90178bb8b02e175, type: 2}
+    - {fileID: 11400000, guid: 80281bef590c5654eaecbe940a49e97c, type: 2}
+  - turn: 22
+    action:
+    - {fileID: 11400000, guid: 6ddf129d1feb3334b8d031d985c3dcc5, type: 2}
+    - {fileID: 11400000, guid: 6ddf129d1feb3334b8d031d985c3dcc5, type: 2}
+    - {fileID: 11400000, guid: 565cc0d80be08db4ab55d3dba01e57a7, type: 2}
+    - {fileID: 11400000, guid: 0ea9c73f83a3cb84c90178bb8b02e175, type: 2}
+  RandomActionList:
+  - action:
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 565cc0d80be08db4ab55d3dba01e57a7, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 3bb965a7cdbd76d4caaa9a34ec0b06c7, type: 2}
+    - {fileID: 11400000, guid: 0ea9c73f83a3cb84c90178bb8b02e175, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 89eeacf81c9c54440852b895e346f5db, type: 2}
+    - {fileID: 11400000, guid: 89eeacf81c9c54440852b895e346f5db, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 89eeacf81c9c54440852b895e346f5db, type: 2}
+    - {fileID: 11400000, guid: 6ddf129d1feb3334b8d031d985c3dcc5, type: 2}
+  - action:
+    - {fileID: 11400000, guid: 89eeacf81c9c54440852b895e346f5db, type: 2}
+    - {fileID: 11400000, guid: 0ea9c73f83a3cb84c90178bb8b02e175, type: 2}
+  triggerAction:
+    action:
+    - {fileID: 11400000, guid: 2b4bc9eafc21ea346ab019bf101cbc49, type: 2}
+    - {fileID: 11400000, guid: 124d1899aec0cd04490a59fba473816a, type: 2}
+    - {fileID: 11400000, guid: 85671e155fd04f84c944bceb495b5c32, type: 2}
+  FearState: {fileID: 11400000, guid: bcc5a77f0e4656c4fb93759bd0f8fe25, type: 2}

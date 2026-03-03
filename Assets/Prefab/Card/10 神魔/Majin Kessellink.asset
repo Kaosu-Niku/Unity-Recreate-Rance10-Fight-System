@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282fd42096a0d024b8a3db497d310176, type: 3}
+  m_Name: Majin Kessellink
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultCardSO
+  displayName: "\u9B54\u4EBA \u51F1\u585E\u6797"
+  image: {fileID: 53298219865944960, guid: d5aee20bc68edc0489209cf90e61cb0d, type: 3}
+  element: 5
+  camp: 9
+  level: 0
+  hp: 1000
+  atk: 1000
+  attack1: {fileID: 11400000, guid: c2e72f51f2840a24b817462acd357171, type: 2}
+  attack2: {fileID: 11400000, guid: 67d63c9542124e249a89f228dc67800f, type: 2}

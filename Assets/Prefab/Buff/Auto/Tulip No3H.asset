@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998c1b0863b74b647b939a2037a9bae5, type: 3}
+  m_Name: Tulip No3H
+  m_EditorClassIdentifier: Assembly-CSharp::AutoBuffSO
+  displayName: "\u9B31\u91D1\u99993\u865F"
+  depiction: "\u81EA\u52D5\u653B\u64CA(100%)\n\u653B\u64CA(\u9060\u7A0B)"
+  image: {fileID: 21300000, guid: 31817c29a30637d49964308afc66cfed, type: 3}
+  coverBuffs: []
+  canRepeat: 0
+  turn: 4
+  haveTurn: 1
+  canDelete: 1
+  DamageFromCard: {fileID: 11400000, guid: c2a58017a2226734d9479a0e89eb90e9, type: 2}
+  DamageFromCharacter: {fileID: 0}
+  attackFrom: {fileID: 11400000, guid: 1d182fbdf49909243a839d2bb7000371, type: 2}
+  attackProbability: 100

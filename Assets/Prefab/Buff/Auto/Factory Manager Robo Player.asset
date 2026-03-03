@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998c1b0863b74b647b939a2037a9bae5, type: 3}
+  m_Name: Factory Manager Robo Player
+  m_EditorClassIdentifier: Assembly-CSharp::AutoBuffSO
+  displayName: "\u5DE5\u5EE0\u9577\u6A5F\u5668\u4EBA"
+  depiction: "\u81EA\u52D5\u653B\u64CA(80%)\n\u653B\u64CA"
+  image: {fileID: 21300000, guid: 31817c29a30637d49964308afc66cfed, type: 3}
+  coverBuffs: []
+  canRepeat: 0
+  turn: 1
+  haveTurn: 0
+  canDelete: 1
+  DamageFromCard: {fileID: 11400000, guid: 614549a2690a2254685ffd5bd36081ae, type: 2}
+  DamageFromCharacter: {fileID: 0}
+  attackFrom: {fileID: 11400000, guid: 64c4a3b5cfbe17e42848cd807c23d750, type: 2}
+  attackProbability: 80

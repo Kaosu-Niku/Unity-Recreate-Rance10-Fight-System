@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Pestron
+  m_EditorClassIdentifier: Assembly-CSharp::StateAttackSO
+  displayName: "\u9ED1\u6B7B\u878D\u5149"
+  depiction: "\u9B54\u6CD5(2.5\u500D)\n\u8A5B\u549250%\n\u689D\u4EF6 HP60%\u4EE5\u4E0B"
+  image: {fileID: 6150268098347028107, guid: 94e308049335da84584aa74a718758ca, type: 3}
+  source: {fileID: 8300000, guid: 4795d380a3ee82543b6af7e7716ae12c, type: 3}
+  playTime: 1
+  attackMyself: 0
+  onceUse: 0
+  attackConditions:
+  - {fileID: 11400000, guid: 322ac02d622cc744bb9b504593fc80f8, type: 2}
+  useAP: 2
+  stackAP: 0
+  recoverAP: 0
+  useAttack: 1
+  attackType: 2
+  damageType: 1
+  attackElement: 0
+  damageMultiplier: 2.5
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs: []
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates:
+  - attackState: {fileID: 11400000, guid: b91cf2f638239d449a493a40ebb9c4f6, type: 2}
+    attackStateProbability: 50
+  healMultiplier: 0
+  healScale: 0
+  accuracy: 0
+  combo: 0
+  deleteEnemyActionProbability: 0
+  downCards: []
+  henshin: {fileID: 0}
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

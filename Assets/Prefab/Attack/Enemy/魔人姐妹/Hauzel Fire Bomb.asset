@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Hauzel Fire Bomb
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultAttackSO
+  displayName: "\u8C6A\u6FA4\u723E\u7684\u706B\u7130\u70AE"
+  depiction: "\u9B54\u6CD5(4.0\u500D)\n\u5C6C\u6027=\u708E"
+  image: {fileID: 6150268098347028107, guid: 94e308049335da84584aa74a718758ca, type: 3}
+  source: {fileID: 8300000, guid: af5bd5878117a3c459647dd714a41768, type: 3}
+  playTime: 1.5
+  useAP: 0
+  stackAP: 0
+  useAttack: 1
+  attackType: 2
+  damageType: 1
+  attackElement: 1
+  damageMultiplier: 4
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs: []
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100

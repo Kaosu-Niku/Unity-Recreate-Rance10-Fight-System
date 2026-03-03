@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978cfa1288d02da49ae753af81ed02ff, type: 3}
+  m_Name: Direct Team Dispatched
+  m_EditorClassIdentifier: Assembly-CSharp::StateAttackSO
+  displayName: "\u76F4\u5C6C\u968A\u51FA\u52D5"
+  depiction: "\u652F\u63F4\u914D\u7F6E\n[\u9B31\u91D1\u9999\u968A]\n\u9650\u52361\u6B21"
+  image: {fileID: -713429434745753553, guid: de8081530732a1642bf7c27fe49a0ce4, type: 3}
+  source: {fileID: 0}
+  playTime: 0
+  onceUse: 1
+  useAP: 1
+  stackAP: 0
+  recoverAP: 0
+  useAttack: 0
+  attackType: 3
+  damageType: 2
+  attackElement: 0
+  damageMultiplier: 1
+  attackCount: 1
+  autoAttack: 0
+  autoProbability: 100
+  attackerAddBuffs:
+  - attackBuff: {fileID: 11400000, guid: ead033a20a9b5b7448113bda9f59cdcb, type: 2}
+    attackBuffProbability: 100
+  - attackBuff: {fileID: 11400000, guid: c1898be79a5c5cc4fb31d63b44295496, type: 2}
+    attackBuffProbability: 100
+  - attackBuff: {fileID: 11400000, guid: 5533d73319e58b34fb4604783137f65d, type: 2}
+    attackBuffProbability: 100
+  - attackBuff: {fileID: 11400000, guid: 144b1c9ba11dbbf4696b878987b297e4, type: 2}
+    attackBuffProbability: 100
+  attackerDeleteStates: []
+  defenserDeleteBuffs: []
+  defenserAddStates: []
+  accuracy: 0
+  combo: 0
+  deleteEnemyActionProbability: 0
+  downCards: []
+  henshin: {fileID: 0}
+  ranceDeleteBuff:
+    attackBuff: {fileID: 0}
+    attackBuffProbability: 100
