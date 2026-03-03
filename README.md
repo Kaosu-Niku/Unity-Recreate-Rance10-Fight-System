@@ -38,6 +38,7 @@ ex:
 
 音效系統 = AudioManager
 
+
 使用ScriptableObject定義並製作遊戲資源
 
 ex:
@@ -53,6 +54,7 @@ ex:
 效果 = BuffSO
 
 狀態 = StateSO
+
 
 UI相關的交互都使用event事件通知觸發的方式觸發，同樣也是避免緊耦合，達成邏輯和畫面的乾淨分割
 
